@@ -2,7 +2,7 @@
 
 - She/Her
 - Yoga dabbler 🧘🏾‍♀️
-- Chemistry & Biology [Tutor](www.diamondthesciencetutor.com) 🧬 
+- Chemistry & Biology [Tutor](https://www.diamondthesciencetutor.com/) 🧬 
 - Biomedical Sciences 🔬 #UCF #GoKnights
 
 # Contact
