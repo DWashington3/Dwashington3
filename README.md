@@ -11,7 +11,7 @@
 - 💻 [Portfolio]
 
 # About Me
-My undergraduate studies were in medicine, but by senior year, I realized I enjoyed research more. I have worked in both formal laboratories and production laboratories for years to realize I am more interested in data interpretation and analytics. So there you have it, I am a Junior Data Scientist with a Bachelor’s Degree in Biomedical Sciences from the University of Central Florida. I earned a certificate in Data Analytics and Visualization from UCF, where I developed skills using Jupyter Notebook, Pandas, SQL, JavaScript and several others listed below.
+My undergraduate studies were in medicine, but by senior year, I realized I enjoyed research more. I have worked in both formal laboratories and production laboratories for years to realize I am more interested in data interpretation and analytics. So there you have it, I am a Junior Data Scientist with a Bachelor’s Degree in Biomedical Sciences from the University of Central Florida. I earned a certificate in Data Analytics and Visualization from UCF, where I developed skills using Jupyter Notebook, pandas, SQL, JavaScript and several others listed below.
 With my analytical skills, I look forward to contributing to the sectors of medicine and science as part of a data-driven team. Get in touch if you are interested in collaborating on a project or mentoring!
 
 
