@@ -38,8 +38,6 @@ With my analytical skills, I look forward to contributing to the sectors of medi
  </p>
 </details>
 
-# Check out what I'm working on [now](https://dwashington3.github.io/Daily_Practice/).
-
 
 [Linkedin]: https://www.linkedin.com/in/diamond-washingtontech/
 [Portfolio]:
